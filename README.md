@@ -44,6 +44,6 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
-</div>
-
+</div><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khsysr&layout=compact">
 </div>
